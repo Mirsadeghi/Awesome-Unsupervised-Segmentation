@@ -14,7 +14,7 @@ This repository is listed relevant works on un-Supervised segmentation in recent
 | 2019 | (IIC) Invariant Information Clustering for Unsupervised Image Classification and Segmentation | [CVPR](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ji_Invariant_Information_Clustering_for_Unsupervised_Image_Classification_and_Segmentation_ICCV_2019_paper.pdf) | [github](https://github.com/xu-ji/IIC)
 
 ## List of Datasts
-| Year        | Topic           | Paper | Code  |
+| Year        | Topic           | Paper | Website  |
 | ------------- |:--------------| :-----| :-----|
 | 2021 | ImageNet-S: Large-scale Unsupervised Semantic Segmentation | [arXiv](https://arxiv.org/pdf/2106.03149.pdf) | [homepage](https://unsupervisedsemanticsegmentation.github.io/) |
 
