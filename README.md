@@ -3,7 +3,7 @@ Awesome Unsupervised Segmentation
 
 This repository is listed relevant works on un-Supervised segmentation in recent years. In case you like to collaborate on this topic, inform me!
 
-
+## List of papers
 | Year        | Topic           | Paper | Code  |
 | ------------- |:--------------| :-----| :-----|
 | 2021 | InfoSeg: Unsupervised Semantic Image Segmentation with Mutual Information Maximization | [arXiv](https://arxiv.org/pdf/2110.03477.pdf) | -- |
@@ -12,6 +12,11 @@ This repository is listed relevant works on un-Supervised segmentation in recent
 | 2021 | Finding an Unsupervised Image Segmenter in Each of Your Deep Generative Models | [arXiv](https://arxiv.org/pdf/2105.08127.pdf) | [github](https://github.com/lukemelas/unsupervised-image-segmentation)
 | 2020 | Autoregressive Unsupervised Image Segmentation | [ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520137.pdf) | [github](https://github.com/Max-Manning/autoregunsupseg)
 | 2019 | (IIC) Invariant Information Clustering for Unsupervised Image Classification and Segmentation | [CVPR](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ji_Invariant_Information_Clustering_for_Unsupervised_Image_Classification_and_Segmentation_ICCV_2019_paper.pdf) | [github](https://github.com/xu-ji/IIC)
+
+## List of Datasts
+| Year        | Topic           | Paper | Code  |
+| ------------- |:--------------| :-----| :-----|
+| 2021 | ImageNet-S: Large-scale Unsupervised Semantic Segmentation | [arXiv](https://arxiv.org/pdf/2106.03149.pdf) | [homepage](https://unsupervisedsemanticsegmentation.github.io/) |
 
 ## See Also
 [facebook vissl](https://github.com/facebookresearch/vissl) \
