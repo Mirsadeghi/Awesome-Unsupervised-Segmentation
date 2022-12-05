@@ -6,6 +6,7 @@ This repository is listed relevant works on un-Supervised segmentation in recent
 ## List of papers
 | Year        | Topic           | Paper | Code  |
 | ------------- |:--------------| :-----| :-----|
+| 2022 | Rethinking Alignment and Uniformity in Unsupervised Image Semantic Segmentation | [arXiv](https://arxiv.org/pdf/2211.14513.pdf) | -- |
 | 2022 | Boundary-aware Information Maximization for Self-supervised Medical Image Segmentation | [arXiv](https://arxiv.org/pdf/2202.02371.pdf) | -- |
 | 2022 | Unsupervised Image Semantic Segmentation through Superpixels and Graph Neural Networks | [arXiv](https://arxiv.org/pdf/2210.11810.pdf) | -- |
 | 2022 | Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers | [CVPR](https://arxiv.org/pdf/2110.03477.pdf) | [github](https://github.com/twke18/HSG) |
